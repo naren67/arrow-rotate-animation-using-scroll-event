@@ -1,0 +1,22 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+
+.container{
+          width: 100%;
+          height: 2000px;
+}
+
+#spin{
+          width: 150px;
+          position: fixed;
+          bottom: 80px;
+          right: 40px;
+          
+}
+
+img{
+          width: 100%;
+}
